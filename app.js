@@ -83,9 +83,9 @@
 
 // }
 
-for(var i=1; i<=10; i++){
+for(let i=1; i<=10; i++){
 
-    var res = 2*i;
+    let res = 2*i;
 
-    console.log(res + "");
+    console.log("2 X " + i + " = " + res);
 }
